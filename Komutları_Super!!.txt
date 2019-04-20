@@ -1,4 +1,3 @@
-
 ->Ýlk Olarak GIT GUI aç(Yeni Bir repo aç)
 
 ->Git Bash çalýþtýr
