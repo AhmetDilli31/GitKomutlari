@@ -1,0 +1,21 @@
+
+->Ýlk Olarak GIT GUI aç(Yeni Bir repo aç)
+
+->Git Bash çalýþtýr
+
+->git init
+
+->git status(Bulunduðun dizinde herhangi bir deðiþiklik yap)
+
+->git add .
+
+->git status
+
+->git commit -m "yeni degisiklik var"
+
+->git push -u origin master
+
+--Ve kodu göndermek istediðin adres için git bilgilerini gir:
+->git remote add origin https://github.com/AhmetDilli31/Deneme.git(Github ta Oluþturduðun yeni proje adresi ne ise buraya eklemen gerek!)
+->git config --global user.email "ahmetdilliblgsyr@gmail.com"
+->git config --global user.name "AhmetDilli31"
