@@ -14,7 +14,7 @@
 
 ->git push -u origin master
 
---Ve kodu göndermek istediðin adres için git bilgilerini gir:
+--Ve kodu göndermek istediðin adres için git bilgilerini gir: 
 ->git remote add origin https://github.com/AhmetDilli31/GitKomutlari.git(Github ta Oluþturduðun yeni proje adresi ne ise buraya eklemen gerek!)
 ->git config --global user.email "ahmetdilliblgsyr@gmail.com"
 ->git config --global user.name "AhmetDilli31"
