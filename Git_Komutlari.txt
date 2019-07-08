@@ -1,10 +1,10 @@
-->Ýlk Olarak GIT GUI aç(Yeni Bir repo aç)
+->Ä°lk Olarak GIT GUI aÃ§(Yeni Bir repo aÃ§)
 
-->Git Bash çalýþtýr(Git GUI içerisinden)
+->Git Bash Ã§alÄ±ÅŸtÄ±r(Git GUI iÃ§erisinden)
 
 ->git init
 
-->git status(Bulunduðun dizinde herhangi bir deðiþiklik yap)
+->git status(BulunduÄŸun dizinde herhangi bir deÄŸiÅŸiklik yap)
 
 ->git add .
 
@@ -14,7 +14,8 @@
 
 ->git push -u origin master
 
---Ve kodu göndermek istediðin adres için git bilgilerini gir: 
-->git remote add origin https://github.com/AhmetDilli31/GitKomutlari.git(Github ta Oluþturduðun yeni proje adresi ne ise buraya eklemen gerek!)
+--Ve kodu gÃ¶ndermek istediÄŸin adres iÃ§in git bilgilerini gir: 
+->git remote add origin https://github.com/AhmetDilli31/GitKomutlari.git(Github ta OluÅŸturduÄŸun yeni proje adresi ne ise buraya eklemen gerek!)
 ->git config --global user.email "ahmetdilliblgsyr@gmail.com"
 ->git config --global user.name "AhmetDilli31"
+Deneme
